@@ -1,4 +1,4 @@
-# AITrifecta
+# LangMist
 # Q&A Application with LangChain and Hugging Face  
 
 This project demonstrates how to build a **Question & Answer (Q&A) Application** using LangChain, Hugging Face, and open-source Large Language Models (LLMs). The application processes PDF documents, creates embeddings, and retrieves relevant answers to user queries by leveraging advanced natural language processing techniques.
