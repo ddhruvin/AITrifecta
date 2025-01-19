@@ -29,5 +29,5 @@ This project demonstrates how to build a **Question & Answer (Q&A) Application**
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your-repo/qna-app.git
-   cd qna-app
+   git clone https://github.com/ddhruvin/LangMist/
+  
